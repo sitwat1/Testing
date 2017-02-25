@@ -50,13 +50,13 @@
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="services.php">Services</a>
+                        <a class="nav-link page-scroll" href="/Testing/services.html">Services</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="ourProjects.php">Portfolio</a>
+                        <a class="nav-link page-scroll" href="/Testing/ourProjects.html">Portfolio</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link page-scroll" href="aboutUs.php">About</a>
+                        <a class="nav-link page-scroll" href="/Testing/aboutUs.html">About</a>
                     </li>
                    
                     <li class="nav-item">
